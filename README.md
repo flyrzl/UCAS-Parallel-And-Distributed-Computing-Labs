@@ -1,4 +1,4 @@
-# UCAS-Distributed-Computing-Labs
+# UCAS-Parallel-And-Distributed-Computing-Labs
 国科大研一课程并行与分布式计算配套实验。
 
 ## Lab 1
